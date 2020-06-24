@@ -1,6 +1,6 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app) for a React + Redux Udemy course.
 
-## Clone this, then:
+## [Clone this repo](https://help.github.com/en/github/creating-cloning-and-archiving-repositories/cloning-a-repository), then:
 
 ### `Run npm install`
 
