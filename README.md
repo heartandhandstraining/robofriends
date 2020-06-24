@@ -1,6 +1,6 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app) for a React + Redux Udemy course.
 
-## Clone this repo and:
+## Clone this, then:
 
 ### `Run npm install`
 
@@ -8,7 +8,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ### `Run npm start`
 
-#### Available Scripts
+# Available Scripts
 
 In the project directory, you can run:
 
