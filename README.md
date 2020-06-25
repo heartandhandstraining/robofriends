@@ -2,7 +2,7 @@
 
 ## 1. [Clone this repo](https://help.github.com/en/github/creating-cloning-and-archiving-repositories/cloning-a-repository)
 
-### 2. Then: `Run npm install`
+### 2. `Run npm install`
 
 ### 3. `Run npm start`
 
